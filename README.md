@@ -12,16 +12,7 @@ This project is part of the **BCA (AI & DS)** curriculum and covers key topics i
 - Linear and Multiple Regression
 - Clustering and Classification Techniques
 
-## 📁 Repository Structure
-├── Dataset/ # CSV and Excel datasets used
-├── Lab-Exercises/ # Weekly lab assignments
-├── Case-Studies/ # Mini-projects and real-world analysis
-├── Reports/ # Generated reports using RMarkdown
-└── README.md # Project overview
 
-markdown
-Copy
-Edit
 
 ## 🧰 Tools and Libraries
 - **R** and **RStudio**
