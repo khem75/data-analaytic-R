@@ -14,7 +14,7 @@ This project is part of the **BCA (AI & DS)** curriculum and covers key topics i
 
 
 
-## 🧰 Tools and Libraries
+# 🧰 Tools and Libraries
 - **R** and **RStudio**
 - `ggplot2`
 - `dplyr`
