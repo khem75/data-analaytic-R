@@ -23,7 +23,6 @@ This project is part of the **BCA (AI & DS)** curriculum and covers key topics i
 - `readr`
 - `shiny` *(optional for interactive apps)*
 
-
 Open the project in RStudio.
 
 Run .R files from the Lab-Exercises folder or open .Rmd files for rendered reports.
