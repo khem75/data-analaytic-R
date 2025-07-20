@@ -30,10 +30,7 @@ Run .R files from the Lab-Exercises folder or open .Rmd files for rendered repor
 📈 Sample Output
 Data visualizations with ggplot2
 
-Summary statistics tables
-
-Model evaluation metrics
-
+Summary statistics 
 📚 References
 "R for Data Science" by Hadley Wickham
 
