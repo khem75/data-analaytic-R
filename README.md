@@ -13,7 +13,6 @@ This project is part of the **BCA (AI & DS)** curriculum and covers key topics i
 - Clustering and Classification Techniques
 
 
-
 # 🧰 Tools and Libraries
 - **R** and **RStudio**
 - `ggplot2`
